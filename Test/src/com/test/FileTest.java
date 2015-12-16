@@ -32,6 +32,7 @@ public class FileTest {
 		
 		System.out.println(destFile.exists());
 		
+		
 //		writeToFile(fileName);
 		
 //		readFromFile(fileName);
